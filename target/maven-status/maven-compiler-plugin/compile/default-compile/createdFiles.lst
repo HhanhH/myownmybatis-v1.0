@@ -1,0 +1,7 @@
+com\core\Configuration.class
+com\dao\domain\UserDO.class
+com\core\MySqlSession.class
+com\dao\mapper\UserDOMapper.class
+com\main\Main.class
+com\core\MyExector.class
+com\core\MyProxy.class
